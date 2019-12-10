@@ -5,7 +5,7 @@ const removeFirst = ["Milo", "Otis", "Garfield"]
 
 append.push("Odie");
 
-prepend.splice(0, 0, "Odie")
+prepend.splice(0, 0, "Odie");
 
 removeLast.pop();
 

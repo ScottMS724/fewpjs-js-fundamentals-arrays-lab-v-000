@@ -9,3 +9,5 @@ prepend[0] = "Odie";
 
 removeLast.pop();
 
+removeFirst.shift();
+
